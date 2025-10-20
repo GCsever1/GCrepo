@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "name": "Joseph Amponsah",
+    "password": "pass123"
+  },
+  {
+    "id": "002",
+    "name": "Ama Mensah",
+    "password": "abc456"
+  },
+  {
+    "id": "003",
+    "name": "Kwame Nkrumah",
+    "password": "xyz789"
+  }
+]
